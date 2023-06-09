@@ -1,0 +1,956 @@
+SIPSN - Sistem Informasi Pengelolaan Sampah Nasional,,,,,,,,,
+Tahun,Provinsi,Kabupaten/Kota,Rumah Tangga(ton),Perkantoran(ton),Pasar(ton),Perniagaan(ton),Fasilitas Publik(ton),Kawasan(ton),Lain(ton)
+2022,Aceh,Kab. Aceh Singkil,31.00,1.00,10.00,4.00,3.00,2.00,1.77
+2022,Aceh,Kab. Gayo Lues,22.00,4.00,11.05,1.00,2.00,,1.00
+2022,Aceh,Kab. Aceh Jaya,,,,,,,
+2022,Aceh,Kab. Aceh Tamiang,7.50,3.00,24.00,6.00,2.50,,7.00
+2022,Aceh,Kab. Pidie Jaya,17.00,6.50,22.00,26.50,8.00,9.50,10.50
+2022,Aceh,Kota Banda Aceh,192.94,0.58,9.38,39.57,2.55,,7.19
+2022,Aceh,Kota Langsa,20.00,4.02,13.40,10.00,8.20,2.20,
+2022,Sumatera Utara,Kab. Tapanuli Tengah,,,,,,,
+2022,Sumatera Utara,Kab. Langkat,8.50,5.40,7.60,6.00,3.90,1.90,2.80
+2022,Sumatera Utara,Kab. Asahan,,,,,,,
+2022,Sumatera Utara,Kab. Toba,,,,,,,
+2022,Sumatera Utara,Kab. Humbang Hasundutan,49.10,0.75,5.50,,1.45,,2.50
+2022,Sumatera Utara,Kota Medan,760.00,160.00,353.00,194.00,88.00,88.00,124.00
+2022,Sumatera Utara,Kota Padangsidimpuan,,,,,,,
+2022,Sumatera Barat,Kab. Pesisir Selatan,86.10,16.00,28.30,1.50,18.00,3.60,
+2022,Sumatera Barat,Kab. Solok,6.00,1.00,4.00,2.00,2.00,1.00,1.00
+2022,Sumatera Barat,Kab. Tanah Datar,96.40,0.28,17.75,1.54,12.27,,
+2022,Sumatera Barat,Kab. Padang Pariaman,15.00,12.00,30.00,,,,
+2022,Sumatera Barat,Kab. Agam,,,,,,,
+2022,Sumatera Barat,Kab. Lima Puluh Kota,,,,,,,
+2022,Sumatera Barat,Kab. Pasaman,51.77,4.55,13.00,3.84,8.85,,5.84
+2022,Sumatera Barat,Kab. Dharmasraya,,,,,,,
+2022,Sumatera Barat,Kab. Solok Selatan,68.95,0.04,1.31,1.99,0.41,,0.01
+2022,Sumatera Barat,Kota Padang,465.15,14.10,88.60,20.13,40.68,7.05,8.05
+2022,Sumatera Barat,Kota Solok,32.71,1.60,16.21,0.45,1.53,0.04,1.73
+2022,Sumatera Barat,Kota Sawahlunto,12.59,0.32,2.33,0.18,1.40,0.28,1.08
+2022,Sumatera Barat,Kota Padang Panjang,,,,,,,
+2022,Sumatera Barat,Kota Payakumbuh,77.80,0.75,9.29,6.76,3.33,0.35,0.54
+2022,Sumatera Barat,Kota Pariaman,86.95,0.39,6.25,1.41,2.93,2.01,0.06
+2022,Riau,Kab. Kampar,50.00,5.00,20.00,15.00,5.00,4.00,1.00
+2022,Riau,Kab. Indragiri Hulu,10.00,1.50,27.00,6.00,5.00,4.00,5.00
+2022,Riau,Kab. Bengkalis,155.01,20.04,13.44,6.58,31.87,16.33,10.95
+2022,Riau,Kab. Rokan Hulu,,,,,,,
+2022,Riau,Kab. Siak,17.40,4.50,7.00,2.00,4.30,2.80,1.00
+2022,Riau,Kab. Kepulauan Meranti,,,,,,,
+2022,Riau,Kota Pekanbaru,,,,,,,
+2022,Jambi,Kab. Bungo,16.70,1.50,67.30,1.50,1.20,2.60,64.60
+2022,Jambi,Kota Jambi,51.30,2.45,18.70,9.24,6.27,3.79,8.25
+2022,Jambi,Kota Sungai Penuh,19.92,1.47,18.64,2.88,0.66,2.77,2.53
+2022,Sumatera Selatan,Kab. Ogan Komering Ulu,51.85,0.50,2.80,0.20,0.15,1.50,
+2022,Sumatera Selatan,Kab. Muara Enim,60.60,25.70,57.90,4.00,0.10,0.10,
+2022,Sumatera Selatan,Kab. Lahat,42.67,3.16,5.00,5.53,7.24,0.29,2.30
+2022,Sumatera Selatan,Kab. Musi Rawas,,,,,,,
+2022,Sumatera Selatan,Kab. Musi Banyuasin,,,,,,,
+2022,Sumatera Selatan,Kab. Banyuasin,,,,,,,
+2022,Sumatera Selatan,Kab. Ogan Komering Ulu Timur,1.00,0.20,18.00,0.40,0.40,0.90,2.90
+2022,Sumatera Selatan,Kab. Penukal Abab Lematang Ilir,82.98,1.97,5.58,2.10,4.56,0.97,1.95
+2022,Sumatera Selatan,Kota Prabumulih,54.52,5.96,19.60,1.13,1.24,13.21,2.75
+2022,Bengkulu,Kab. Seluma,4.25,,,,,,
+2022,Lampung,Kab. Lampung Tengah,73.00,1.00,5.00,3.00,3.00,0.50,2.00
+2022,Lampung,Kab. Tanggamus,138.60,0.06,40.00,,,,
+2022,Lampung,Kab. Way Kanan,187.05,1.19,5.40,0.10,0.08,,18.85
+2022,Lampung,Kota Metro,49.37,9.31,18.56,8.50,8.04,4.13,2.09
+2022,Kepulauan Bangka Belitung,Kab. Belitung,14.34,0.54,8.95,2.00,1.80,2.71,11.74
+2022,Kepulauan Bangka Belitung,Kab. Bangka Tengah,41.18,1.65,12.35,3.29,5.77,16.47,1.65
+2022,Kepulauan Riau,Kab. Bintan,20.50,6.30,11.30,6.10,5.10,3.00,3.50
+2022,Kepulauan Riau,Kab. Lingga,16.30,0.10,0.70,5.10,3.90,1.20,0.30
+2022,Kepulauan Riau,Kota Batam,,,,,,,
+2022,Kepulauan Riau,Kota Tanjung Pinang,,,,,,,
+2022,DKI Jakarta,Kab. Adm. Kep. Seribu,,,,,,,
+2022,DKI Jakarta,Kota Adm. Jakarta Pusat,,,,,,,
+2022,DKI Jakarta,Kota Adm. Jakarta Barat,,,,,,,
+2022,DKI Jakarta,Kota Adm. Jakarta Selatan,,,,,,,
+2022,DKI Jakarta,Kota Adm. Jakarta Timur,,,,,,,
+2022,Jawa Barat,Kab. Ciamis,289.00,24.00,100.00,100.00,30.00,24.00,24.00
+2022,Jawa Barat,Kab. Sumedang,105.00,0.50,12.00,3.00,0.50,4.00,4.00
+2022,Jawa Barat,Kota Bogor,,,,,,,
+2022,Jawa Barat,Kota Bandung,60.00,4.00,10.00,6.00,13.30,5.00,1.70
+2022,Jawa Barat,Kota Cimahi,,,,,,,
+2022,Jawa Tengah,Kab. Banyumas,99999.99,16242.00,35733.00,68218.00,19491.00,12994.00,9747.00
+2022,Jawa Tengah,Kab. Kebumen,,,,,,,
+2022,Jawa Tengah,Kab. Purworejo,16.00,0.02,26.80,,1.10,2.20,11.80
+2022,Jawa Tengah,Kab. Wonosobo,125.00,2.92,35.00,3.50,8.97,,5.00
+2022,Jawa Tengah,Kab. Boyolali,,,,,,,
+2022,Jawa Tengah,Kab. Klaten,142.44,0.73,2.62,1.20,13.73,14.00,
+2022,Jawa Tengah,Kab. Sukoharjo,152.71,25.32,61.23,43.17,21.59,50.37,5.37
+2022,Jawa Tengah,Kab. Wonogiri,,,,,,,
+2022,Jawa Tengah,Kab. Karanganyar,60.00,2.00,27.72,2.00,2.00,1.00,1.00
+2022,Jawa Tengah,Kab. Sragen,134.55,45.60,123.71,24.20,189.17,68.70,4.25
+2022,Jawa Tengah,Kab. Grobogan,,,,,,,
+2022,Jawa Tengah,Kab. Blora,155.00,39.00,78.00,43.00,39.00,23.00,12.00
+2022,Jawa Tengah,Kab. Rembang,52.28,3.68,1661.23,0.02,152.00,,11.86
+2022,Jawa Tengah,Kab. Pati,,,,,,,
+2022,Jawa Tengah,Kab. Kudus,,,,,,,
+2022,Jawa Tengah,Kab. Jepara,,,,,,,
+2022,Jawa Tengah,Kab. Demak,,0.34,234.16,,,,
+2022,Jawa Tengah,Kab. Semarang,,,,,,,
+2022,Jawa Tengah,Kab. Kendal,114.99,45.44,55.97,45.40,45.59,52.19,50.43
+2022,Jawa Tengah,Kab. Pemalang,,,,,,,
+2022,Jawa Tengah,Kab. Tegal,45.00,8.00,17.00,18.00,6.00,4.00,2.00
+2022,Jawa Tengah,Kab. Brebes,25.00,3.00,45.00,2.00,10.00,9.00,6.00
+2022,Jawa Tengah,Kota Magelang,,,,,,,
+2022,Jawa Tengah,Kota Salatiga,,,,,,,0.75
+2022,Jawa Tengah,Kota Semarang,872.47,5.84,31.30,97.25,109.57,80.35,15.12
+2022,D.I. Yogyakarta,Kab. Kulon Progo,0.43,,0.23,,,,
+2022,D.I. Yogyakarta,Kab. Gunungkidul,,,,,,,
+2022,D.I. Yogyakarta,Kab. Sleman,,,,,,,
+2022,Jawa Timur,Kab. Pacitan,23.16,0.00,9.60,1.62,0.89,1.79,0.63
+2022,Jawa Timur,Kab. Lumajang,178.80,3.82,133.18,8.05,146.27,20.78,33.60
+2022,Jawa Timur,Kab. Situbondo,,,,,,,
+2022,Jawa Timur,Kab. Mojokerto,472.17,24.79,159.35,70.83,28.33,53.12,17.71
+2022,Jawa Timur,Kab. Jombang,99.50,0.60,29.19,1.20,4.20,1.20,1.81
+2022,Jawa Timur,Kab. Magetan,14.94,2.52,12.86,1.00,10.89,,
+2022,Jawa Timur,Kab. Bojonegoro,76.00,9.00,22.00,7.00,57.00,,19.00
+2022,Jawa Timur,Kab. Tuban,138.15,0.70,129.00,70.89,55.95,95.62,15.00
+2022,Jawa Timur,Kab. Lamongan,30.14,0.28,0.32,0.41,0.50,10.21,58.14
+2022,Jawa Timur,Kab. Pamekasan,247.00,3.00,10.00,6.00,5.00,2.50,6.80
+2022,Jawa Timur,Kab. Sumenep,,,,,,,
+2022,Jawa Timur,Kota Malang,364.74,2.40,23.05,110.45,48.46,183.60,32.10
+2022,Jawa Timur,Kota Madiun,87.44,5.16,9.41,4.78,4.61,3.17,2.03
+2022,Jawa Timur,Kota Batu,11100.00,900.00,700.00,500.23,200.00,100.00,
+2022,Banten,Kab. Tangerang,33.98,9.60,14.97,1.47,14.73,13.19,12.06
+2022,Banten,Kab. Serang,,,,,,,
+2022,Banten,Kota Cilegon,225.13,,58.08,,,,
+2022,Banten,Kota Tangerang Selatan,750.54,7.10,0.08,26.86,22.19,,
+2022,Bali,Kab. Badung,,,,,,,
+2022,Bali,Kab. Gianyar,389.62,3.07,58.24,5.07,2.07,5.90,3.03
+2022,Bali,Kab. Karangasem,24.00,7.00,9.00,5.00,7.00,8.00,1.00
+2022,Bali,Kab. Buleleng,,,,,,,
+2022,Nusa Tenggara Barat,Kab. Lombok Tengah,255.00,20.00,52.00,32.00,13.00,20.00,20.00
+2022,Nusa Tenggara Barat,Kab. Lombok Timur,132.40,0.15,17.82,3.00,5.16,0.47,21.00
+2022,Nusa Tenggara Barat,Kab. Lombok Utara,,,,,,,
+2022,Nusa Tenggara Barat,Kota Mataram,,,,,,,
+2022,Kalimantan Barat,Kab. Sambas,317.82,0.90,37.60,,,,
+2022,Kalimantan Barat,Kab. Mempawah,82.62,,15.59,,,,
+2022,Kalimantan Barat,Kab. Sanggau,246.14,0.26,0.16,8.03,,,
+2022,Kalimantan Barat,Kab. Kapuas Hulu,108.35,0.19,8.35,,,,
+2022,Kalimantan Tengah,Kab. Kapuas,,,,,,,
+2022,Kalimantan Tengah,Kab. Seruyan,115.07,80.93,16.29,,,,
+2022,Kalimantan Tengah,Kab. Pulang Pisau,38.10,0.10,2.30,6.50,3.90,0.00,
+2022,Kalimantan Selatan,Kab. Kotabaru,75.00,,,,,,25.00
+2022,Kalimantan Selatan,Kab. Banjar,,,,,,,
+2022,Kalimantan Selatan,Kab. Barito Kuala,37.50,9.30,19.00,10.50,14.70,4.00,5.00
+2022,Kalimantan Selatan,Kab. Tapin,,,,,,,
+2022,Kalimantan Selatan,Kab. Hulu Sungai Selatan,48.31,0.79,35.02,5.69,4.71,3.60,1.88
+2022,Kalimantan Selatan,Kab. Hulu Sungai Tengah,,,,,,,
+2022,Kalimantan Selatan,Kab. Tabalong,37.56,6.92,18.78,20.76,6.92,6.92,2.14
+2022,Kalimantan Selatan,Kab. Tanah Bumbu,,,,,,,
+2022,Kalimantan Selatan,Kab. Balangan,26.76,5.16,9.94,6.72,2.78,3.90,1.30
+2022,Kalimantan Selatan,Kota Banjarmasin,336.11,11.98,77.51,14.80,5.99,14.34,51.25
+2022,Kalimantan Selatan,Kota Banjarbaru,,,,,,,
+2022,Kalimantan Timur,Kab. Paser,94.91,2.37,10.08,5.34,2.37,2.37,1.19
+2022,Kalimantan Timur,Kab. Kutai Kartanegara,86.72,12.13,1.60,8.17,78.02,125.79,1.33
+2022,Kalimantan Timur,Kab. Kutai Timur,55.00,4.00,21.00,4.00,9.00,7.00,2.00
+2022,Kalimantan Timur,Kab. Penajam Paser Utara,13.00,2.00,5.00,2.50,2.00,1.50,2.00
+2022,Kalimantan Timur,Kota Balikpapan,361.86,14.72,33.15,45.14,23.52,15.49,20.85
+2022,Kalimantan Timur,Kota Bontang,82.20,5.06,5.91,,3.03,,3.80
+2022,Kalimantan Utara,Kab. Nunukan,,,,,,,
+2022,Kalimantan Utara,Kab. Tana Tidung,6.00,3.00,1.00,,,,1.00
+2022,Sulawesi Utara,Kab. Kepulauan Sangihe,65.84,1.32,13.17,4.39,1.31,,1.75
+2022,Sulawesi Utara,Kab. Minahasa Tenggara,,,,,,,
+2022,Sulawesi Utara,Kab. Bolaang Mongondow Utara,35.00,20.00,10.00,10.00,10.00,10.00,5.00
+2022,Sulawesi Utara,Kab. Kep. Siau Tagulandang Biaro,6.75,0.36,0.90,,3.33,,
+2022,Sulawesi Utara,Kota Manado,,,,,,,
+2022,Sulawesi Utara,Kota Kotamobagu,49.35,6.21,11.90,7.20,6.45,,5.09
+2022,Sulawesi Tengah,Kab. Donggala,3.00,0.50,2.00,1.50,1.69,1.00,1.00
+2022,Sulawesi Tengah,Kab. Parigi Moutong,,,,,,,
+2022,Sulawesi Tengah,Kab. Banggai Laut,,,,,,,
+2022,Sulawesi Selatan,Kab. Kepulauan Selayar,33.00,5.50,16.00,7.10,4.60,2.00,
+2022,Sulawesi Selatan,Kab. Bulukumba,,,,,,,
+2022,Sulawesi Selatan,Kab. Bantaeng,31.37,0.92,1.80,2.30,0.09,,3.12
+2022,Sulawesi Selatan,Kab. Bone,190.00,34.10,73.60,29.30,22.70,16.30,11.50
+2022,Sulawesi Selatan,Kab. Maros,,,,,,,
+2022,Sulawesi Selatan,Kab. Pangkajene Kepulauan,84.09,5.14,23.71,19.65,1.18,4.04,0.47
+2022,Sulawesi Selatan,Kab. Barru,8.30,1.38,0.83,0.41,0.83,1.38,0.69
+2022,Sulawesi Selatan,Kab. Soppeng,44.19,7.53,15.20,8.06,3.28,13.89,2.08
+2022,Sulawesi Selatan,Kab. Sidenreng Rappang,94.00,4.49,7.27,3.53,8.98,2.24,4.90
+2022,Sulawesi Selatan,Kab. Pinrang,120.00,30.00,5.00,5.00,10.00,5.00,5.00
+2022,Sulawesi Selatan,Kab. Luwu Timur,46.40,11.20,22.70,11.30,5.90,5.90,16.80
+2022,Sulawesi Selatan,Kab. Toraja Utara,,,,,,,
+2022,Sulawesi Selatan,Kota Parepare,33.25,5.35,15.60,8.45,4.35,7.70,2.25
+2022,Sulawesi Selatan,Kota Palopo,6.70,0.50,13.00,4.20,3.60,3.00,3.00
+2022,Gorontalo,Kota Gorontalo,,,,,,,
+2022,Sulawesi Barat,Kab. Mamuju,,,,,,,
+2022,Sulawesi Barat,Kab. Majene,,,,,,,
+2022,Sulawesi Barat,Kab. Mamuju Tengah,,,,,,,
+2022,Maluku,Kab. Buru Selatan,5.43,0.41,2.51,9.92,1.60,,1.05
+2022,Papua,Kab. Kepulauan Yapen,,,,,,,
+2022,Papua,Kab. Sarmi,6.00,2.00,5.00,,2.00,1.00,0.73
+2022,Papua,Kota Jayapura,,,,,,,
+2022,Papua Barat,Kab. Manokwari,135.05,,19.80,4.40,4.12,,
+2022,Papua Selatan,Kab. Asmat,29.00,2.00,4.00,3.00,4.12,2.63,0.80
+2022,Papua Barat Daya,Kab. Sorong,,,,,,,
+2021,Aceh,Kab. Aceh Barat,30.00,15.28,30.00,5.00,10.00,5.00,5.00
+2021,Aceh,Kab. Pidie,5.74,0.40,2.84,2.01,0.50,0.67,1.30
+2021,Aceh,Kab. Gayo Lues,16.00,6.00,11.00,2.00,3.00,,2.00
+2021,Aceh,Kab. Aceh Jaya,,,,,,,
+2021,Aceh,Kota Banda Aceh,190.29,0.57,9.23,46.18,2.36,0.00,0.05
+2021,Aceh,Kota Langsa,10.00,2.20,14.00,12.00,12.08,2.50,
+2021,Aceh,Kota Subulussalam,26.00,1.50,6.00,2.50,4.00,26.00,
+2021,Sumatera Utara,Kab. Tapanuli Tengah,,,,,,,
+2021,Sumatera Utara,Kab. Tapanuli Utara,2.00,2.00,0.51,0.50,2.00,1.00,
+2021,Sumatera Utara,Kab. Langkat,8.50,5.40,7.60,6.00,3.90,1.90,2.80
+2021,Sumatera Utara,Kab. Karo,49.25,35.94,60.14,35.94,24.90,24.25,13.98
+2021,Sumatera Utara,Kab. Deli Serdang,477.07,67.87,255.50,67.87,100.50,25.95,123.40
+2021,Sumatera Utara,Kab. Simalungun,,,,,,,
+2021,Sumatera Utara,Kab. Asahan,,,,,,,
+2021,Sumatera Utara,Kab. Dairi,,,,,,,
+2021,Sumatera Utara,Kab. Toba,,,,,,,
+2021,Sumatera Utara,Kab. Samosir,16.00,3.00,10.00,5.00,1.00,4.00,1.00
+2021,Sumatera Utara,Kota Medan,,,,,,,
+2021,Sumatera Utara,Kota Pematang Siantar,162.00,5.40,22.02,12.00,6.00,12.00,13.60
+2021,Sumatera Utara,Kota Tebing Tinggi,74.66,9.43,21.17,8.81,4.36,3.67,0.39
+2021,Sumatera Barat,Kab. Pesisir Selatan,,,,,,,
+2021,Sumatera Barat,Kab. Sijunjung,14.60,7.30,9.20,0.90,2.20,0.70,
+2021,Sumatera Barat,Kab. Tanah Datar,88.60,0.28,17.75,1.54,12.27,,
+2021,Sumatera Barat,Kab. Agam,,,,,,,
+2021,Sumatera Barat,Kab. Lima Puluh Kota,,,,,,,
+2021,Sumatera Barat,Kab. Pasaman,,,,,,,
+2021,Sumatera Barat,Kab. Dharmasraya,,2.29,0.94,,0.10,,11.20
+2021,Sumatera Barat,Kab. Solok Selatan,17.39,0.20,2.01,5.21,,,
+2021,Sumatera Barat,Kota Padang,462.00,14.00,88.00,20.00,40.41,7.00,8.00
+2021,Sumatera Barat,Kota Solok,32.32,0.51,16.21,0.43,1.24,0.05,1.72
+2021,Sumatera Barat,Kota Sawahlunto,,,,,,,
+2021,Sumatera Barat,Kota Padang Panjang,38.13,0.36,6.76,1.52,1.00,0.01,0.63
+2021,Sumatera Barat,Kota Payakumbuh,77.80,0.75,9.29,6.76,3.33,0.35,0.54
+2021,Riau,Kab. Kampar,,,,,,,
+2021,Riau,Kab. Indragiri Hilir,20.00,0.10,14.70,0.10,0.10,,
+2021,Riau,Kab. Siak,17.40,4.50,7.00,2.00,4.30,2.80,1.00
+2021,Riau,Kota Pekanbaru,,,,,,,
+2021,Riau,Kota Dumai,,,,,,,
+2021,Jambi,Kab. Merangin,30.00,10.00,30.00,5.00,20.00,5.00,
+2021,Jambi,Kab. Bungo,16.70,1.50,67.30,1.50,1.20,2.60,64.60
+2021,Jambi,Kota Jambi,51.30,2.45,18.70,9.24,6.27,3.79,8.25
+2021,Sumatera Selatan,Kab. Ogan Komering Ulu,51.85,0.50,2.80,0.20,0.15,1.50,
+2021,Sumatera Selatan,Kab. Muara Enim,60.60,25.70,57.90,4.00,0.10,0.10,
+2021,Sumatera Selatan,Kab. Lahat,60.00,1.00,5.00,2.00,0.50,,4.00
+2021,Sumatera Selatan,Kab. Musi Banyuasin,145.00,12.00,21.00,25.00,13.00,20.00,23.00
+2021,Sumatera Selatan,Kab. Ogan Komering Ulu Timur,1.00,0.20,18.00,0.40,0.40,0.90,2.90
+2021,Sumatera Selatan,Kota Palembang,808.13,14.41,99.75,149.15,91.44,15.17,2.20
+2021,Sumatera Selatan,Kota Prabumulih,22585.13,5211.95,2084.78,1737.32,1737.32,694.93,694.93
+2021,Bengkulu,Kab. Seluma,4.25,,,,,,
+2021,Bengkulu,Kab. Kepahiang,,,,,,,
+2021,Lampung,Kab. Lampung Tengah,50.00,5.00,35.00,5.00,5.00,,
+2021,Lampung,Kab. Tanggamus,138.60,4.20,76.50,19.40,9.40,4.20,8.50
+2021,Lampung,Kab. Way Kanan,301.74,2.36,10.80,0.84,0.08,,22.62
+2021,Lampung,Kab. Pesawaran,129.00,11.00,42.00,17.00,17.00,16.00,19.00
+2021,Lampung,Kab. Pringsewu,,,,,,,
+2021,Lampung,Kota Bandar Lampung,40.90,8.20,17.30,18.10,6.30,5.80,3.40
+2021,Lampung,Kota Metro,49.37,9.31,18.56,11.35,8.04,5.13,2.09
+2021,Kepulauan Bangka Belitung,Kab. Bangka,79.79,6.62,17.57,9.92,3.84,5.10,7.65
+2021,Kepulauan Bangka Belitung,Kab. Belitung,28.00,0.80,6.00,2.50,2.50,2.50,2.70
+2021,Kepulauan Bangka Belitung,Kab. Bangka Selatan,25.00,2.00,7.00,5.00,10.00,15.00,16.00
+2021,Kepulauan Bangka Belitung,Kab. Bangka Tengah,,,,,,,
+2021,Kepulauan Bangka Belitung,Kab. Belitung Timur,,,,,,,
+2021,Kepulauan Bangka Belitung,Kota Pangkal Pinang,47.70,7.30,21.10,8.60,4.30,6.20,4.80
+2021,Kepulauan Riau,Kab. Bintan,19.41,6.50,10.50,7.30,5.80,3.40,3.50
+2021,Kepulauan Riau,Kota Tanjung Pinang,,,,,,,
+2021,DKI Jakarta,Kab. Adm. Kep. Seribu,,,,,,,
+2021,DKI Jakarta,Kota Adm. Jakarta Pusat,,,,,,,
+2021,DKI Jakarta,Kota Adm. Jakarta Utara,,,,,,,
+2021,DKI Jakarta,Kota Adm. Jakarta Barat,,,,,,,
+2021,DKI Jakarta,Kota Adm. Jakarta Selatan,,,,,,,
+2021,DKI Jakarta,Kota Adm. Jakarta Timur,,,,,,,
+2021,Jawa Barat,Kab. Sukabumi,10.89,10.01,10.22,21.44,20.46,9.79,17.19
+2021,Jawa Barat,Kab. Bandung,,,,,,,
+2021,Jawa Barat,Kab. Garut,,,,,,,
+2021,Jawa Barat,Kab. Ciamis,281.80,23.00,94.90,97.80,28.80,23.00,23.00
+2021,Jawa Barat,Kab. Kuningan,,,,,,,
+2021,Jawa Barat,Kab. Cirebon,,,,,,,
+2021,Jawa Barat,Kab. Sumedang,105.00,0.50,12.00,3.00,0.50,4.00,4.00
+2021,Jawa Barat,Kab. Indramayu,242.58,88.21,165.39,110.27,110.26,220.52,165.39
+2021,Jawa Barat,Kota Bogor,418.73,33.77,87.80,47.28,20.26,27.01,40.52
+2021,Jawa Barat,Kota Sukabumi,154.42,3.03,5.66,2.98,12.56,0.59,
+2021,Jawa Barat,Kota Bandung,955.53,63.70,159.25,95.55,211.81,79.63,27.08
+2021,Jawa Barat,Kota Cirebon,92.53,1.27,8.01,58.00,22.09,13.89,8.68
+2021,Jawa Barat,Kota Bekasi,921.00,47.00,435.00,211.00,69.00,73.00,24.00
+2021,Jawa Barat,Kota Depok,156.20,7.40,104.20,29.80,409.20,22.30,14.90
+2021,Jawa Barat,Kota Cimahi,,,,,,,
+2021,Jawa Tengah,Kab. Cilacap,724.60,0.48,44.61,0.17,8.89,6.10,6.12
+2021,Jawa Tengah,Kab. Banyumas,99999.99,16242.00,35733.00,68218.00,19491.00,12994.00,9747.00
+2021,Jawa Tengah,Kab. Purbalingga,69.55,3.17,8.72,1.55,10.85,1.90,13.26
+2021,Jawa Tengah,Kab. Purworejo,92.96,0.20,0.34,0.20,0.58,,
+2021,Jawa Tengah,Kab. Wonosobo,,,,,,,
+2021,Jawa Tengah,Kab. Magelang,,,,,,,
+2021,Jawa Tengah,Kab. Boyolali,,,,,,,
+2021,Jawa Tengah,Kab. Klaten,142.44,0.73,2.62,1.20,13.73,14.00,
+2021,Jawa Tengah,Kab. Sukoharjo,172.54,32.35,50.32,43.13,17.98,28.76,14.38
+2021,Jawa Tengah,Kab. Wonogiri,,,,,,,
+2021,Jawa Tengah,Kab. Karanganyar,350.00,,3600.00,,,,
+2021,Jawa Tengah,Kab. Sragen,196.50,77.20,143.60,46.60,10.41,105.38,6.48
+2021,Jawa Tengah,Kab. Grobogan,,,,,,,
+2021,Jawa Tengah,Kab. Blora,92.00,23.00,46.00,25.00,23.00,14.00,7.00
+2021,Jawa Tengah,Kab. Rembang,52.28,3.68,1661.23,0.02,152.00,,11.86
+2021,Jawa Tengah,Kab. Pati,,,,,,,
+2021,Jawa Tengah,Kab. Kudus,,,,,,,
+2021,Jawa Tengah,Kab. Jepara,,,,,,,
+2021,Jawa Tengah,Kab. Demak,65.00,,12.00,,,,
+2021,Jawa Tengah,Kab. Semarang,20.00,10.00,30.00,10.00,10.00,10.00,10.00
+2021,Jawa Tengah,Kab. Temanggung,265.09,24.68,23.66,43.58,76.51,,46.64
+2021,Jawa Tengah,Kab. Batang,135.00,22.00,60.00,48.00,24.00,19.00,15.00
+2021,Jawa Tengah,Kab. Pekalongan,197.64,34.88,19.38,19.38,15.50,100.76,
+2021,Jawa Tengah,Kab. Pemalang,,,,,,,
+2021,Jawa Tengah,Kab. Tegal,,,,,,,
+2021,Jawa Tengah,Kab. Brebes,50.00,4.00,36.00,1.00,1.00,1.00,7.00
+2021,Jawa Tengah,Kota Magelang,,,,,,,
+2021,Jawa Tengah,Kota Salatiga,,,,,,,
+2021,Jawa Tengah,Kota Semarang,432.28,35.85,51.95,16.17,30.46,84.28,530.00
+2021,Jawa Tengah,Kota Tegal,159.70,0.23,7.50,23.41,10.50,12.51,45.73
+2021,D.I. Yogyakarta,Kab. Kulon Progo,0.43,,0.23,,,,
+2021,D.I. Yogyakarta,Kab. Gunungkidul,,,,,,,
+2021,D.I. Yogyakarta,Kab. Sleman,,,,,,,
+2021,D.I. Yogyakarta,Kota Yogyakarta,180.63,2.13,31.43,72.43,37.80,1.07,1.91
+2021,Jawa Timur,Kab. Pacitan,13.80,0.00,15.20,0.92,0.81,1.22,1.00
+2021,Jawa Timur,Kab. Ponorogo,37.50,3.22,16.40,7.29,5.25,15.74,14.60
+2021,Jawa Timur,Kab. Trenggalek,,,,,,,
+2021,Jawa Timur,Kab. Blitar,,,,,,,
+2021,Jawa Timur,Kab. Kediri,,,,,,,
+2021,Jawa Timur,Kab. Malang,738.89,30.16,106.03,22.29,20.84,31.70,10.66
+2021,Jawa Timur,Kab. Lumajang,,,,,,,
+2021,Jawa Timur,Kab. Banyuwangi,0.07,0.00,0.25,0.05,0.56,0.15,0.01
+2021,Jawa Timur,Kab. Situbondo,,,,,,,
+2021,Jawa Timur,Kab. Jombang,84.05,0.60,29.19,1.20,4.20,1.20,1.81
+2021,Jawa Timur,Kab. Nganjuk,181.32,22.95,94.99,8.88,23.30,47.63,64.81
+2021,Jawa Timur,Kab. Magetan,14.94,,12.86,,,,
+2021,Jawa Timur,Kab. Ngawi,,,,,,,
+2021,Jawa Timur,Kab. Bojonegoro,,,,,,,
+2021,Jawa Timur,Kab. Tuban,136.80,0.70,129.00,70.88,55.95,95.62,15.00
+2021,Jawa Timur,Kab. Lamongan,30.14,0.28,0.32,0.41,0.50,10.21,58.14
+2021,Jawa Timur,Kab. Pamekasan,240.00,3.00,10.00,6.00,5.00,2.50,6.00
+2021,Jawa Timur,Kab. Sumenep,360.20,0.61,5.40,1.15,39.01,19.08,24.84
+2021,Jawa Timur,Kota Kediri,,,,,,,
+2021,Jawa Timur,Kota Blitar,68.08,0.70,2.10,1.40,1.10,0.40,1.40
+2021,Jawa Timur,Kota Malang,,,,,,,
+2021,Jawa Timur,Kota Probolinggo,49.68,0.40,14.20,2.50,0.80,1.80,0.90
+2021,Jawa Timur,Kota Pasuruan,76.14,0.66,19.69,1.31,16.41,6.56,10.50
+2021,Jawa Timur,Kota Mojokerto,77.50,4.50,7.50,3.90,2.10,4.50,
+2021,Jawa Timur,Kota Madiun,,,,,,,
+2021,Jawa Timur,Kota Batu,15000.00,10000.00,12000.00,4000.47,762.00,,
+2021,Banten,Kab. Serang,,,,,,,
+2021,Banten,Kota Serang,402.44,0.08,12.00,18.10,0.98,3.11,3.60
+2021,Banten,Kota Tangerang Selatan,,,,,,,
+2021,Bali,Kab. Jembrana,56.38,2.80,12.40,15.40,7.32,3.10,2.60
+2021,Bali,Kab. Tabanan,,,530.00,,,,
+2021,Bali,Kab. Badung,,,,,,,
+2021,Bali,Kab. Gianyar,398.00,4.61,16.15,,7.17,48.96,2.08
+2021,Bali,Kab. Bangli,82.14,0.02,5.94,0.45,4.08,1.20,2.76
+2021,Bali,Kab. Buleleng,527.27,1.56,6.78,1.36,1.16,0.53,0.39
+2021,Bali,Kota Denpasar,,,,,,,
+2021,Nusa Tenggara Barat,Kab. Lombok Timur,90.24,0.15,15.00,3.00,10.73,0.47,21.00
+2021,Nusa Tenggara Barat,Kota Mataram,174.23,5.28,34.32,23.76,10.56,7.92,7.92
+2021,Nusa Tenggara Timur,Kab. Alor,,,,,,,
+2021,Nusa Tenggara Timur,Kab. Manggarai Barat,60.00,0.10,5.03,17.60,13.88,0.65,6.81
+2021,Nusa Tenggara Timur,Kab. Sumba Tengah,10.14,0.52,7.54,1.56,3.12,0.26,2.86
+2021,Kalimantan Barat,Kab. Sambas,277.38,0.90,37.60,,,,
+2021,Kalimantan Barat,Kab. Mempawah,,,,,,,
+2021,Kalimantan Barat,Kab. Sanggau,238.70,0.26,0.16,8.03,,,
+2021,Kalimantan Barat,Kab. Melawi,,,,,,,
+2021,Kalimantan Barat,Kota Pontianak,,,,,,,
+2021,Kalimantan Barat,Kota Singkawang,,,,,,,
+2021,Kalimantan Tengah,Kab. Kapuas,8.90,0.61,4.95,3.83,1.45,1.57,
+2021,Kalimantan Tengah,Kab. Barito Utara,32.50,5.20,24.00,2.00,1.50,2.00,1.50
+2021,Kalimantan Tengah,Kab. Gunung Mas,94.78,2.35,8.00,,,,23.93
+2021,Kalimantan Tengah,Kab. Pulang Pisau,38.10,0.10,2.30,6.50,3.90,0.00,
+2021,Kalimantan Tengah,Kab. Murung Raya,9.73,0.02,5.00,8.66,4.32,0.30,0.00
+2021,Kalimantan Tengah,Kab. Barito Timur,5.94,,4.50,,1.40,0.50,0.70
+2021,Kalimantan Tengah,Kota Palangkaraya,69.27,20.36,18.88,13.90,5.85,3.05,16.61
+2021,Kalimantan Selatan,Kab. Tanah Laut,14.40,1.80,7.20,2.70,2.25,1.20,0.45
+2021,Kalimantan Selatan,Kab. Kotabaru,,,,,,,
+2021,Kalimantan Selatan,Kab. Banjar,,,,,,,
+2021,Kalimantan Selatan,Kab. Barito Kuala,37.50,9.30,19.00,10.50,14.70,4.00,5.00
+2021,Kalimantan Selatan,Kab. Tapin,61.02,1.93,6.04,2.19,2.70,2.09,1.38
+2021,Kalimantan Selatan,Kab. Hulu Sungai Selatan,48.31,0.79,35.02,5.69,4.71,3.60,1.88
+2021,Kalimantan Selatan,Kab. Hulu Sungai Tengah,18.30,2.79,20.50,8.00,2.10,2.00,1.63
+2021,Kalimantan Selatan,Kab. Hulu Sungai Utara,23.69,0.63,16.93,2.91,6.43,11.51,5.79
+2021,Kalimantan Selatan,Kab. Tabalong,37.56,6.92,18.78,20.76,6.92,6.92,1.00
+2021,Kalimantan Selatan,Kab. Tanah Bumbu,,,,,,,
+2021,Kalimantan Selatan,Kab. Balangan,26.76,5.16,9.94,6.72,2.78,3.90,1.30
+2021,Kalimantan Selatan,Kota Banjarmasin,332.48,3.55,76.68,26.49,56.32,10.64,0.30
+2021,Kalimantan Selatan,Kota Banjarbaru,,,,,,,
+2021,Kalimantan Timur,Kab. Paser,81.43,2.29,10.31,5.73,2.29,2.29,
+2021,Kalimantan Timur,Kab. Kutai Kartanegara,61.52,8.61,1.14,5.80,55.34,89.23,0.95
+2021,Kalimantan Timur,Kab. Kutai Timur,55.00,4.00,20.00,4.00,7.00,7.00,3.00
+2021,Kalimantan Timur,Kab. Penajam Paser Utara,13.00,2.00,5.00,2.50,2.00,1.50,2.00
+2021,Kalimantan Timur,Kota Balikpapan,336.66,9.02,29.66,42.03,21.90,6.28,19.39
+2021,Kalimantan Timur,Kota Samarinda,,,,,,,
+2021,Kalimantan Timur,Kota Bontang,82.20,5.06,5.91,,3.03,,3.80
+2021,Kalimantan Utara,Kab. Nunukan,,,,,,,
+2021,Kalimantan Utara,Kab. Tana Tidung,10.82,1.20,0.80,,,,
+2021,Sulawesi Utara,Kab. Minahasa,,,,,,,
+2021,Sulawesi Utara,Kab. Kepulauan Sangihe,65.84,1.00,13.17,4.39,1.31,,1.75
+2021,Sulawesi Utara,Kab. Minahasa Selatan,15.00,0.50,4.00,0.80,0.70,1.00,1.00
+2021,Sulawesi Utara,Kab. Minahasa Tenggara,,,,,,,
+2021,Sulawesi Utara,Kab. Bolaang Mongondow Utara,40.00,10.00,10.00,5.00,20.00,5.00,10.00
+2021,Sulawesi Utara,Kab. Kep. Siau Tagulandang Biaro,,,,,,,
+2021,Sulawesi Utara,Kab. Bolaang Mongondow Selatan,25.00,15.00,20.00,15.00,15.00,5.00,5.00
+2021,Sulawesi Utara,Kota Manado,,,,,,,
+2021,Sulawesi Utara,Kota Bitung,54.62,3.55,5.95,10.72,42.81,30.25,10.60
+2021,Sulawesi Utara,Kota Tomohon,,,,,,,
+2021,Sulawesi Utara,Kota Kotamobagu,49.35,6.21,11.90,7.20,6.45,,5.39
+2021,Sulawesi Tengah,Kab. Donggala,3.00,0.50,2.00,1.50,1.69,1.00,1.00
+2021,Sulawesi Tengah,Kab. Parigi Moutong,,,,,,,
+2021,Sulawesi Tengah,Kab. Banggai Laut,,,,,,,
+2021,Sulawesi Tengah,Kota Palu,,,,,,,
+2021,Sulawesi Selatan,Kab. Kepulauan Selayar,,,,,,,
+2021,Sulawesi Selatan,Kab. Bulukumba,,,,,,,
+2021,Sulawesi Selatan,Kab. Bantaeng,31.37,0.92,1.80,2.30,0.09,,3.12
+2021,Sulawesi Selatan,Kab. Jeneponto,0.99,0.33,6.60,3.30,3.96,0.49,3.79
+2021,Sulawesi Selatan,Kab. Sinjai,54.40,0.73,21.16,12.09,6.04,9.07,4.82
+2021,Sulawesi Selatan,Kab. Bone,190.00,34.10,73.60,29.30,22.70,16.30,11.50
+2021,Sulawesi Selatan,Kab. Maros,,,,,,,
+2021,Sulawesi Selatan,Kab. Pangkajene Kepulauan,84.09,5.14,23.71,19.65,1.18,4.04,0.47
+2021,Sulawesi Selatan,Kab. Barru,45.57,7.60,4.56,2.28,4.56,7.60,3.80
+2021,Sulawesi Selatan,Kab. Soppeng,,,,,,,
+2021,Sulawesi Selatan,Kab. Wajo,64.73,12.30,20.36,17.04,7.20,4.46,25.55
+2021,Sulawesi Selatan,Kab. Sidenreng Rappang,93.06,4.45,7.20,3.49,8.89,2.22,8.68
+2021,Sulawesi Selatan,Kab. Pinrang,,,,,,,
+2021,Sulawesi Selatan,Kab. Enrekang,,,,,,,
+2021,Sulawesi Selatan,Kab. Luwu,135.87,0.15,12.67,0.81,1.57,0.99,0.12
+2021,Sulawesi Selatan,Kab. Luwu Timur,46.20,11.20,22.70,11.30,5.90,5.90,16.80
+2021,Sulawesi Selatan,Kota Makassar,,,,,,,
+2021,Sulawesi Selatan,Kota Parepare,32.75,5.25,15.90,8.75,4.10,7.50,2.00
+2021,Sulawesi Selatan,Kota Palopo,6.70,0.50,13.00,3.90,3.60,3.00,3.00
+2021,Sulawesi Tenggara,Kota Kendari,163.02,8.12,18.78,2.18,2.45,5.23,1.58
+2021,Gorontalo,Kota Gorontalo,33.00,15.00,1700.00,21.00,10.00,4.00,
+2021,Sulawesi Barat,Kab. Mamuju,,,,,,,
+2021,Sulawesi Barat,Kab. Majene,,,,,,,
+2021,Sulawesi Barat,Kab. Mamuju Tengah,,,,,,,11.00
+2021,Maluku,Kab. Buru Selatan,5.11,0.41,2.51,9.92,1.57,,1.05
+2021,Maluku,Kota Tual,,0.90,15.00,0.50,2.30,10.00,5.00
+2021,Maluku Utara,Kab. Halmahera Utara,,,,,,,
+2021,Maluku Utara,Kota Tidore Kepulauan,36.32,6.36,18.16,13.62,9.06,5.47,1.82
+2021,Papua,Kab. Jayapura,84.24,0.53,9.00,160.00,391.00,0.14,
+2021,Papua,Kab. Biak Numfor,27.57,3.73,9.76,3.21,3.58,6.61,
+2021,Papua,Kab. Keerom,20.00,10.00,40.00,15.00,5.00,5.00,5.00
+2021,Papua,Kota Jayapura,165.15,46.10,23.21,9.61,6.70,2.50,
+2021,Papua Barat,Kab. Manokwari,131.70,,19.80,4.40,4.12,,
+2021,Papua Selatan,Kab. Asmat,28.50,3.00,4.40,2.81,1.29,3.62,1.02
+2021,Papua Tengah,Kab. Nabire,,,,,,,
+2021,Papua Pegunungan,Kab. Lanny Jaya,,,,,,,
+2020,Aceh,Kab. Aceh Selatan,19.10,1.00,2.30,1.40,8.30,2.20,1.40
+2020,Aceh,Kab. Aceh Timur,17.35,5.00,10.00,8.00,5.00,2.00,2.00
+2020,Aceh,Kab. Aceh Tengah,14991.90,5162.50,16551.00,11690.00,10562.50,99999.99,30108.50
+2020,Aceh,Kab. Simeulue,26.13,4.36,5.66,3.48,2.18,0.44,1.31
+2020,Aceh,Kab. Gayo Lues,,,,,,,
+2020,Aceh,Kab. Aceh Jaya,,,,,,,
+2020,Aceh,Kab. Bener Meriah,,,,,,,
+2020,Aceh,Kota Banda Aceh,186.16,0.56,9.03,45.18,2.31,0.00,0.05
+2020,Aceh,Kota Sabang,1.00,0.01,0.03,0.03,0.36,0.03,0.31
+2020,Aceh,Kota Langsa,16.00,1.20,14.00,8.00,5.00,2.00,
+2020,Sumatera Utara,Kab. Langkat,8.50,5.40,7.60,6.00,3.90,1.90,2.80
+2020,Sumatera Utara,Kab. Deli Serdang,658.20,21.94,164.55,32.91,109.70,38.39,71.31
+2020,Sumatera Utara,Kab. Asahan,369.28,2.68,3.53,77.36,13.14,6.96,151.91
+2020,Sumatera Utara,Kab. Dairi,2.26,0.12,2.64,,0.55,0.36,
+2020,Sumatera Utara,Kab. Humbang Hasundutan,10.00,0.50,1.00,,1.45,,2.50
+2020,Sumatera Utara,Kab. Samosir,12.00,2.00,5.00,5.00,1.00,3.00,1.00
+2020,Sumatera Utara,Kota Medan,,,,,,,
+2020,Sumatera Utara,Kota Pematang Siantar,,,,,,,
+2020,Sumatera Utara,Kota Sibolga,,,,,,,
+2020,Sumatera Utara,Kota Tebing Tinggi,74.66,9.43,21.17,8.81,4.36,3.67,0.39
+2020,Sumatera Barat,Kab. Pesisir Selatan,86.10,16.00,28.30,1.50,18.00,3.60,
+2020,Sumatera Barat,Kab. Sijunjung,14.60,7.30,9.20,0.90,2.20,0.70,
+2020,Sumatera Barat,Kab. Tanah Datar,88.60,0.28,17.75,1.54,12.27,,
+2020,Sumatera Barat,Kab. Agam,,,,,,,
+2020,Sumatera Barat,Kab. Lima Puluh Kota,56.00,14.00,37.00,22.00,19.00,5.00,3.00
+2020,Sumatera Barat,Kab. Pasaman,51.77,4.56,13.00,3.84,0.89,,13.80
+2020,Sumatera Barat,Kab. Dharmasraya,83.33,2.29,0.62,,0.09,,11.21
+2020,Sumatera Barat,Kab. Pasaman Barat,32.70,0.01,15.00,0.12,0.80,,
+2020,Sumatera Barat,Kota Padang,463.00,14.94,88.00,21.24,45.07,8.00,9.00
+2020,Sumatera Barat,Kota Solok,30.82,0.71,15.82,0.43,1.14,0.05,1.73
+2020,Sumatera Barat,Kota Sawahlunto,,,,,,,
+2020,Sumatera Barat,Kota Padang Panjang,34.66,0.36,6.76,1.52,1.56,,1.34
+2020,Sumatera Barat,Kota Bukittinggi,24.97,0.03,27.66,19.84,9.56,0.70,39.50
+2020,Sumatera Barat,Kota Payakumbuh,76.96,0.74,9.19,6.69,3.29,0.34,0.54
+2020,Riau,Kab. Kampar,,,,,,,
+2020,Riau,Kab. Bengkalis,155.88,20.26,13.27,6.84,32.78,16.57,10.53
+2020,Riau,Kab. Indragiri Hilir,299.93,0.90,4.07,2.88,6.70,,
+2020,Riau,Kab. Pelalawan,91.12,6.00,30.00,6.00,6.00,6.00,6.00
+2020,Riau,Kab. Rokan Hilir,197.00,3.55,93.00,105.90,4.80,20.00,82.50
+2020,Riau,Kab. Siak,17.40,4.50,7.00,2.00,4.30,2.80,1.00
+2020,Riau,Kab. Kuantan Singingi,,,,,,,
+2020,Riau,Kota Pekanbaru,,,,,,,
+2020,Riau,Kota Dumai,,,,,,,
+2020,Jambi,Kab. Merangin,16.00,4.00,17.00,8.00,2.00,2.20,2.00
+2020,Jambi,Kab. Sarolangun,,,,,,,
+2020,Jambi,Kab. Batanghari,75.50,1.25,29.30,3.40,2.70,2.10,8.35
+2020,Jambi,Kab. Muaro Jambi,,,,,,,
+2020,Jambi,Kab. Tanjung Jabung Barat,13.00,2.00,8.00,4.00,6.00,1.00,6.00
+2020,Jambi,Kab. Bungo,16.61,1.40,67.14,1.32,1.04,2.48,64.52
+2020,Jambi,Kab. Tebo,,,,,,,
+2020,Jambi,Kota Jambi,,,,,,,
+2020,Jambi,Kota Sungai Penuh,,,,,,,
+2020,Sumatera Selatan,Kab. Ogan Komering Ulu,,,,,,,
+2020,Sumatera Selatan,Kab. Muara Enim,60.60,25.70,57.90,4.00,0.10,0.10,
+2020,Sumatera Selatan,Kab. Lahat,96.10,21.00,96.10,39.00,17.90,18.00,18.20
+2020,Sumatera Selatan,Kab. Musi Rawas,267.53,0.08,12.88,1.18,0.62,0.18,4.55
+2020,Sumatera Selatan,Kab. Musi Banyuasin,145.10,13.00,20.70,25.90,13.00,18.10,23.32
+2020,Sumatera Selatan,Kab. Banyuasin,,,,,,,
+2020,Sumatera Selatan,Kab. Ogan Komering Ulu Timur,49.33,1.98,15.95,1.32,1.10,40.47,
+2020,Sumatera Selatan,Kab. Ogan Ilir,219.50,5.30,35.10,23.40,2.00,0.00,7.30
+2020,Sumatera Selatan,Kab. Empat Lawang,140.00,0.10,35.70,0.58,0.14,0.35,0.42
+2020,Sumatera Selatan,Kota Palembang,799.13,14.21,99.65,146.15,88.52,15.17,9.30
+2020,Sumatera Selatan,Kota Prabumulih,43.86,5.25,21.40,14.44,6.68,1.59,1.24
+2020,Bengkulu,Kab. Bengkulu Selatan,13.10,2.00,2.50,2.20,1.00,1.00,2.00
+2020,Bengkulu,Kab. Bengkulu Utara,42.10,8.00,19.00,8.00,7.00,3.00,13.00
+2020,Bengkulu,Kab. Lebong,,,,,,,
+2020,Bengkulu,Kab. Kepahiang,,,,,,,
+2020,Bengkulu,Kab. Bengkulu Tengah,37.22,5.50,10.40,3.50,1.50,,
+2020,Lampung,Kab. Lampung Barat,6.30,0.70,3.22,1.80,1.30,,
+2020,Lampung,Kab. Way Kanan,165.30,1.16,5.40,0.42,0.04,,19.56
+2020,Lampung,Kab. Pesawaran,132.00,15.00,40.00,19.00,19.00,13.00,10.00
+2020,Lampung,Kota Bandar Lampung,40.90,8.20,17.30,18.10,6.30,5.80,3.40
+2020,Lampung,Kota Metro,49.51,10.31,18.56,11.35,6.19,4.13,3.09
+2020,Kepulauan Bangka Belitung,Kab. Bangka,79.04,6.37,16.57,8.92,3.82,5.10,7.65
+2020,Kepulauan Bangka Belitung,Kab. Belitung,32.53,0.75,12.74,4.80,0.08,0.67,0.59
+2020,Kepulauan Bangka Belitung,Kab. Bangka Selatan,59.00,2.50,5.50,2.90,9.30,6.20,2.10
+2020,Kepulauan Bangka Belitung,Kab. Bangka Tengah,44.48,2.08,8.53,10.89,10.85,1.38,1.60
+2020,Kepulauan Bangka Belitung,Kab. Bangka Barat,,,,,,,
+2020,Kepulauan Bangka Belitung,Kab. Belitung Timur,,,,,,,
+2020,Kepulauan Bangka Belitung,Kota Pangkal Pinang,71.58,12.38,28.80,9.57,16.71,7.09,5.70
+2020,Kepulauan Riau,Kab. Bintan,24.04,2.67,10.68,3.75,3.20,4.81,4.27
+2020,Kepulauan Riau,Kab. Karimun,70.70,5.30,17.70,5.30,35.40,28.10,14.70
+2020,Kepulauan Riau,Kab. Natuna,,,,,,,
+2020,Kepulauan Riau,Kab. Lingga,16.30,0.10,0.70,5.10,3.90,1.20,0.30
+2020,Kepulauan Riau,Kab. Kepulauan Anambas,,,,,,,
+2020,Kepulauan Riau,Kota Batam,602.61,79.51,2.15,41.58,3.11,91.52,16.99
+2020,Kepulauan Riau,Kota Tanjung Pinang,16.90,2.30,10.20,5.10,4.40,5.90,9.40
+2020,DKI Jakarta,Kab. Adm. Kep. Seribu,20.70,,,,,,11.60
+2020,DKI Jakarta,Kota Adm. Jakarta Pusat,,,,,,,
+2020,DKI Jakarta,Kota Adm. Jakarta Utara,,,,,,,
+2020,DKI Jakarta,Kota Adm. Jakarta Barat,834.24,430.73,63.00,83.63,,141.27,22.05
+2020,DKI Jakarta,Kota Adm. Jakarta Selatan,,,,,,,
+2020,DKI Jakarta,Kota Adm. Jakarta Timur,,,,,,,
+2020,Jawa Barat,Kab. Sukabumi,164.97,151.64,154.97,484.90,148.45,309.94,99.98
+2020,Jawa Barat,Kab. Bandung,,,,,,,
+2020,Jawa Barat,Kab. Ciamis,281.80,23.00,94.90,97.80,28.80,23.00,23.00
+2020,Jawa Barat,Kab. Cirebon,,,,,,,
+2020,Jawa Barat,Kab. Sumedang,240.00,5.00,100.00,20.00,20.00,25.00,31.00
+2020,Jawa Barat,Kab. Bekasi,,,,,,,
+2020,Jawa Barat,Kab. Pangandaran,,,,,,,
+2020,Jawa Barat,Kota Bogor,262.50,0.03,20.50,1.10,4.20,2.80,208.00
+2020,Jawa Barat,Kota Sukabumi,168.16,1.60,6.30,2.00,0.61,,
+2020,Jawa Barat,Kota Bandung,923.89,61.59,153.98,92.39,204.80,76.99,26.18
+2020,Jawa Barat,Kota Depok,156.20,7.40,104.20,29.80,409.20,22.30,14.90
+2020,Jawa Barat,Kota Cimahi,,,,,,,
+2020,Jawa Barat,Kota Tasikmalaya,,,,,,,
+2020,Jawa Barat,Kota Banjar,60.98,2.25,8.17,9.30,1.95,1.09,0.00
+2020,Jawa Tengah,Kab. Cilacap,724.60,0.48,44.61,0.17,8.89,6.10,6.12
+2020,Jawa Tengah,Kab. Kebumen,40.00,7.00,4.00,3.00,8.00,3.00,4.00
+2020,Jawa Tengah,Kab. Purworejo,92.96,0.02,0.34,0.02,0.58,,
+2020,Jawa Tengah,Kab. Wonosobo,,,20520.00,6.40,,,
+2020,Jawa Tengah,Kab. Magelang,,,,,,,
+2020,Jawa Tengah,Kab. Boyolali,,,,,,,
+2020,Jawa Tengah,Kab. Klaten,353.55,2.75,2.04,1.40,2.40,6.40,
+2020,Jawa Tengah,Kab. Sukoharjo,184.54,3.22,15.51,11.65,17.74,130.23,5.89
+2020,Jawa Tengah,Kab. Wonogiri,,,,,,,
+2020,Jawa Tengah,Kab. Sragen,127.90,43.60,121.30,26.74,154.35,57.69,2.73
+2020,Jawa Tengah,Kab. Blora,,,,,,,
+2020,Jawa Tengah,Kab. Rembang,52.28,3.68,1661.23,0.02,152.00,,11.86
+2020,Jawa Tengah,Kab. Pati,,,,,,,
+2020,Jawa Tengah,Kab. Kudus,,,,,,,
+2020,Jawa Tengah,Kab. Jepara,89046.40,20353.50,63604.60,25441.80,33074.40,12720.90,10176.70
+2020,Jawa Tengah,Kab. Semarang,32.50,23.30,28.20,,,6.20,2.00
+2020,Jawa Tengah,Kab. Temanggung,55.00,4.00,15.43,6.00,10.00,9.00,11.00
+2020,Jawa Tengah,Kab. Kendal,0.00,0.05,0.57,0.01,0.04,0.37,0.39
+2020,Jawa Tengah,Kab. Batang,,,,,,,
+2020,Jawa Tengah,Kab. Pemalang,176.00,23.00,56.00,48.00,28.00,57.00,3.70
+2020,Jawa Tengah,Kab. Tegal,727.50,53.21,128.00,30.20,14.50,54.60,10.00
+2020,Jawa Tengah,Kab. Brebes,25.00,3.00,40.00,5.00,5.00,11.00,11.00
+2020,Jawa Tengah,Kota Magelang,,,,,,,
+2020,Jawa Tengah,Kota Salatiga,,,,,,,
+2020,Jawa Tengah,Kota Semarang,362.00,7.50,321.80,15.60,66.00,84.30,388.80
+2020,D.I. Yogyakarta,Kab. Kulon Progo,0.43,,0.23,,,,
+2020,D.I. Yogyakarta,Kab. Bantul,404.43,9.85,30.39,47.80,0.90,8.21,25.39
+2020,D.I. Yogyakarta,Kab. Gunungkidul,,,,,,,
+2020,D.I. Yogyakarta,Kab. Sleman,,,,,,,
+2020,D.I. Yogyakarta,Kota Yogyakarta,199.06,2.35,34.63,79.82,41.66,1.17,2.10
+2020,Jawa Timur,Kab. Pacitan,12.90,,15.10,1.30,0.90,1.60,1.20
+2020,Jawa Timur,Kab. Ponorogo,,,,,,,
+2020,Jawa Timur,Kab. Trenggalek,,,,,,,
+2020,Jawa Timur,Kab. Tulungagung,51.39,0.16,16.82,7.96,4.08,12.81,0.56
+2020,Jawa Timur,Kab. Blitar,,,,,,,
+2020,Jawa Timur,Kab. Kediri,,,,,,,
+2020,Jawa Timur,Kab. Malang,891.57,19.17,119.25,25.86,29.64,20.06,8.92
+2020,Jawa Timur,Kab. Lumajang,175.51,0.53,129.89,4.76,142.98,17.49,30.31
+2020,Jawa Timur,Kab. Banyuwangi,19511.24,0.02,5.55,0.01,0.01,,
+2020,Jawa Timur,Kab. Bondowoso,19.44,3.25,14.61,0.61,4.22,1.36,
+2020,Jawa Timur,Kab. Situbondo,,,,,,,
+2020,Jawa Timur,Kab. Probolinggo,18.60,1.00,15.00,5.70,3.60,5.20,2.60
+2020,Jawa Timur,Kab. Pasuruan,,,,,,,
+2020,Jawa Timur,Kab. Sidoarjo,99999.99,3964.80,55506.80,27753.40,7929.50,39647.70,99999.99
+2020,Jawa Timur,Kab. Jombang,,,,,,,
+2020,Jawa Timur,Kab. Nganjuk,54.19,1.23,8.86,1.63,32.69,0.69,0.71
+2020,Jawa Timur,Kab. Madiun,8.88,4.42,98.19,5.40,107.15,7.57,42.84
+2020,Jawa Timur,Kab. Magetan,,,,,,,
+2020,Jawa Timur,Kab. Ngawi,,,,,,,
+2020,Jawa Timur,Kab. Bojonegoro,,,2.47,0.01,0.45,,
+2020,Jawa Timur,Kab. Tuban,136.80,6.96,100.80,82.78,53.43,95.62,15.00
+2020,Jawa Timur,Kab. Gresik,99999.99,100.00,3.40,2.00,5.00,20.00,20.00
+2020,Jawa Timur,Kab. Sampang,99999.99,12154.95,36464.85,24309.90,7292.97,,17016.93
+2020,Jawa Timur,Kab. Pamekasan,,,,,,,
+2020,Jawa Timur,Kab. Sumenep,,,,,,,
+2020,Jawa Timur,Kota Kediri,,,,,,,
+2020,Jawa Timur,Kota Blitar,67.47,0.70,2.10,1.40,1.10,0.40,1.40
+2020,Jawa Timur,Kota Malang,,,,,,,
+2020,Jawa Timur,Kota Probolinggo,48.47,0.43,12.38,2.98,1.03,1.78,0.63
+2020,Jawa Timur,Kota Pasuruan,76.14,0.66,19.69,1.31,16.41,6.56,10.50
+2020,Jawa Timur,Kota Mojokerto,77.50,4.50,7.50,3.90,2.10,4.50,
+2020,Jawa Timur,Kota Madiun,85.84,5.16,9.41,4.78,4.61,3.17,2.03
+2020,Jawa Timur,Kota Surabaya,,,,,,,
+2020,Banten,Kab. Pandeglang,,,,,,,
+2020,Banten,Kab. Lebak,1.30,119.80,8.00,50.30,134.20,131.30,69.30
+2020,Banten,Kab. Serang,,,,,,,
+2020,Banten,Kota Cilegon,,,,,,,
+2020,Banten,Kota Serang,,,,,,,
+2020,Banten,Kota Tangerang Selatan,,,,,,,
+2020,Bali,Kab. Jembrana,56.38,2.80,12.40,15.40,7.32,3.10,2.60
+2020,Bali,Kab. Tabanan,,,530.00,,,,
+2020,Bali,Kab. Badung,,,,,,,
+2020,Bali,Kab. Gianyar,398.71,4.61,16.15,,7.17,48.96,2.08
+2020,Bali,Kab. Bangli,86.14,1.02,5.94,0.30,4.12,2.38,0.10
+2020,Bali,Kab. Karangasem,14.92,1.20,5.50,2.07,35.06,,60.00
+2020,Bali,Kab. Buleleng,527.27,1.55,6.78,1.36,1.16,0.58,0.39
+2020,Bali,Kota Denpasar,,,,,,,
+2020,Nusa Tenggara Barat,Kab. Lombok Timur,90.24,0.15,15.00,3.00,10.73,0.47,21.00
+2020,Nusa Tenggara Barat,Kab. Lombok Utara,,,,,,,
+2020,Nusa Tenggara Timur,Kab. Sumba Tengah,10.00,0.51,7.44,1.54,3.08,0.26,2.82
+2020,Kalimantan Barat,Kab. Sambas,235.97,0.90,37.60,,,,
+2020,Kalimantan Barat,Kab. Mempawah,3.92,8.27,27.35,8.58,8.72,11.37,2.63
+2020,Kalimantan Barat,Kab. Sanggau,230.28,0.26,0.16,8.03,,,
+2020,Kalimantan Barat,Kab. Ketapang,41.00,6.00,20.00,15.00,5.00,8.00,5.00
+2020,Kalimantan Barat,Kab. Bengkayang,,,,,,,
+2020,Kalimantan Barat,Kab. Melawi,,,,,,,
+2020,Kalimantan Barat,Kota Pontianak,99999.99,450.63,27136.66,11279.95,1098.42,,211.24
+2020,Kalimantan Barat,Kota Singkawang,2.06,0.21,1.50,1.30,8.52,0.29,0.08
+2020,Kalimantan Tengah,Kab. Kotawaringin Barat,12.00,6.00,6.00,7.00,7.00,10.00,5.00
+2020,Kalimantan Tengah,Kab. Kotawaringin Timur,,,,,,,
+2020,Kalimantan Tengah,Kab. Kapuas,9.52,0.68,3.03,,0.68,,1.65
+2020,Kalimantan Tengah,Kab. Barito Utara,32.50,5.20,24.00,2.00,1.50,2.00,1.50
+2020,Kalimantan Tengah,Kab. Sukamara,,,,,,,
+2020,Kalimantan Tengah,Kab. Pulang Pisau,38.10,0.10,2.30,6.50,3.90,0.00,
+2020,Kalimantan Tengah,Kab. Barito Timur,5.94,,4.50,,1.40,0.50,0.70
+2020,Kalimantan Tengah,Kota Palangkaraya,149.45,88.40,40.00,20.84,1.00,,45.39
+2020,Kalimantan Selatan,Kab. Kotabaru,,,5.60,,,,
+2020,Kalimantan Selatan,Kab. Barito Kuala,37.50,9.30,19.00,10.50,8.00,4.00,5.00
+2020,Kalimantan Selatan,Kab. Tapin,61.02,1.93,6.04,2.19,2.70,2.09,1.38
+2020,Kalimantan Selatan,Kab. Hulu Sungai Selatan,42.31,0.79,34.08,5.69,4.71,3.60,1.88
+2020,Kalimantan Selatan,Kab. Hulu Sungai Tengah,12.15,1.80,7.05,2.50,2.75,7.75,1.25
+2020,Kalimantan Selatan,Kab. Hulu Sungai Utara,2.90,0.30,22.60,1.00,5.45,0.50,2.53
+2020,Kalimantan Selatan,Kab. Tabalong,,,,,,,
+2020,Kalimantan Selatan,Kab. Tanah Bumbu,120.00,4.00,50.00,,2.00,2.00,2.00
+2020,Kalimantan Selatan,Kab. Balangan,26.64,5.12,9.86,6.68,2.70,3.86,1.28
+2020,Kalimantan Selatan,Kota Banjarmasin,332.48,3.55,76.68,26.49,56.32,10.64,0.30
+2020,Kalimantan Selatan,Kota Banjarbaru,124.15,0.40,2.00,1.76,4.33,14.48,
+2020,Kalimantan Timur,Kab. Paser,91.69,2.29,10.31,5.73,2.29,2.29,
+2020,Kalimantan Timur,Kab. Kutai Kartanegara,58.47,8.18,1.08,5.51,52.60,84.81,0.90
+2020,Kalimantan Timur,Kab. Kutai Timur,83.00,2.00,6.00,2.00,2.00,4.00,1.00
+2020,Kalimantan Timur,Kab. Penajam Paser Utara,13.00,2.00,5.00,2.50,2.00,1.50,2.00
+2020,Kalimantan Timur,Kota Balikpapan,336.66,9.02,29.66,42.03,21.90,6.28,19.39
+2020,Kalimantan Timur,Kota Samarinda,,,,,,,
+2020,Kalimantan Timur,Kota Bontang,82.20,5.06,5.91,,3.03,6.80,0.48
+2020,Kalimantan Utara,Kab. Nunukan,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2020,Kalimantan Utara,Kota Tarakan,99.36,4.14,24.84,2.07,6.90,0.69,37.13
+2020,Sulawesi Utara,Kab. Minahasa,,,,,,,
+2020,Sulawesi Utara,Kab. Kepulauan Sangihe,25.00,8.00,8.00,9.00,12.00,,9.00
+2020,Sulawesi Utara,Kab. Kepulauan Talaud,,,,,,,
+2020,Sulawesi Utara,Kab. Minahasa Selatan,,,,,,,
+2020,Sulawesi Utara,Kab. Minahasa Utara,49846.00,6230.00,24923.00,7788.00,4158.00,9346.00,1557.00
+2020,Sulawesi Utara,Kab. Minahasa Tenggara,,,,,,,
+2020,Sulawesi Utara,Kab. Bolaang Mongondow Utara,,,,,,,
+2020,Sulawesi Utara,Kab. Kep. Siau Tagulandang Biaro,,,,,,,
+2020,Sulawesi Utara,Kab. Bolaang Mongondow Selatan,,,,,,,
+2020,Sulawesi Utara,Kota Manado,,,,,,,
+2020,Sulawesi Utara,Kota Bitung,,,,,,,
+2020,Sulawesi Utara,Kota Tomohon,,,,,,,
+2020,Sulawesi Utara,Kota Kotamobagu,45.35,6.15,15.90,7.20,6.45,,5.40
+2020,Sulawesi Tengah,Kab. Banggai,,,,,,,
+2020,Sulawesi Tengah,Kab. Poso,15.20,1.28,3.16,0.72,0.94,0.63,0.30
+2020,Sulawesi Tengah,Kab. Donggala,3.00,0.50,2.00,1.50,1.69,1.00,1.00
+2020,Sulawesi Tengah,Kab. Parigi Moutong,,,,,,,
+2020,Sulawesi Tengah,Kota Palu,36.21,0.16,12.60,3.17,0.56,5.73,0.08
+2020,Sulawesi Selatan,Kab. Kepulauan Selayar,33.00,5.50,16.00,7.10,4.60,2.00,
+2020,Sulawesi Selatan,Kab. Bulukumba,4.00,0.00,1550.00,0.05,0.75,,0.08
+2020,Sulawesi Selatan,Kab. Bantaeng,22.86,0.88,1.70,1.73,0.10,,2.00
+2020,Sulawesi Selatan,Kab. Bone,189.80,33.90,73.60,29.00,22.60,16.20,11.30
+2020,Sulawesi Selatan,Kab. Maros,75.20,9.00,30.21,2.00,8.00,,33.00
+2020,Sulawesi Selatan,Kab. Pangkajene Kepulauan,,,,,,,
+2020,Sulawesi Selatan,Kab. Barru,44.40,7.40,4.40,2.20,4.40,7.40,3.70
+2020,Sulawesi Selatan,Kab. Soppeng,,,,,,,
+2020,Sulawesi Selatan,Kab. Wajo,28.27,0.71,8.05,1.67,0.32,0.30,19.08
+2020,Sulawesi Selatan,Kab. Sidenreng Rappang,92.25,3.54,6.70,3.19,6.47,1.96,8.65
+2020,Sulawesi Selatan,Kab. Enrekang,,,,,,,
+2020,Sulawesi Selatan,Kab. Luwu,132.15,0.15,12.67,0.81,1.57,0.99,0.12
+2020,Sulawesi Selatan,Kab. Luwu Utara,,,,,,,
+2020,Sulawesi Selatan,Kab. Luwu Timur,16.00,4.00,8.00,4.00,2.00,2.00,6.00
+2020,Sulawesi Selatan,Kota Makassar,,,,,,,
+2020,Sulawesi Selatan,Kota Parepare,32.30,5.40,14.10,7.90,3.20,7.70,2.00
+2020,Sulawesi Selatan,Kota Palopo,10.00,0.09,15.00,3.00,2.00,3.00,3.00
+2020,Sulawesi Tenggara,Kab. Kolaka,102.17,3.14,20.43,7.86,15.72,1.57,6.29
+2020,Sulawesi Tenggara,Kab. Konawe,,,,,,,
+2020,Sulawesi Tenggara,Kab. Buton,,,,,,,
+2020,Sulawesi Tenggara,Kab. Bombana,,,6.00,,2.00,1.00,1.00
+2020,Sulawesi Tenggara,Kab. Kolaka Utara,,,,,,,
+2020,Gorontalo,Kab. Gorontalo,4.60,0.40,0.20,0.40,0.80,0.70,0.70
+2020,Gorontalo,Kab. Pohuwato,6.40,1.10,3.30,1.20,0.90,0.50,1.50
+2020,Gorontalo,Kota Gorontalo,26.00,17.00,10.00,10.00,5.00,2.00,0.03
+2020,Sulawesi Barat,Kab. Pasangkayu,1.20,0.20,0.90,,0.70,,9.00
+2020,Sulawesi Barat,Kab. Mamuju,,3.35,57.60,,,,
+2020,Sulawesi Barat,Kab. Polewali Mandar,110.23,5.46,12.86,8.93,19.88,14.50,7.14
+2020,Maluku,Kab. Buru Selatan,4.16,0.41,2.51,9.92,1.42,,1.05
+2020,Maluku,Kota Ambon,53.07,10.21,40.82,27.78,20.49,6.67,4.16
+2020,Maluku Utara,Kab. Halmahera Utara,147.90,9.20,12.60,5.00,8.00,2.50,0.01
+2020,Maluku Utara,Kab. Pulau Morotai,,,,,,,
+2020,Maluku Utara,Kota Ternate,27.20,2.70,8.40,5.20,2.90,1.90,5.40
+2020,Maluku Utara,Kota Tidore Kepulauan,36.32,6.36,18.16,13.62,9.06,5.47,1.82
+2020,Papua,Kab. Biak Numfor,27.47,3.64,9.75,3.08,3.57,6.62,
+2020,Papua,Kab. Keerom,15.00,15.00,25.00,15.00,10.00,10.00,10.00
+2020,Papua,Kota Jayapura,165.15,46.10,23.21,9.61,6.70,2.50,
+2020,Papua Barat,Kab. Manokwari,128.35,,19.80,4.40,4.12,,
+2020,Papua Selatan,Kab. Asmat,28.00,3.00,4.40,2.73,1.27,3.62,1.02
+2019,Aceh,Kab. Aceh Selatan,19.00,1.00,2.10,1.40,8.00,2.20,1.30
+2019,Aceh,Kab. Aceh Tengah,14520.00,5000.00,16030.00,11322.00,10230.00,11320.00,29165.00
+2019,Aceh,Kab. Simeulue,26.37,4.40,5.71,3.52,2.20,0.44,1.32
+2019,Aceh,Kab. Gayo Lues,38.00,3.00,16.00,7.00,5.00,16.00,15.00
+2019,Aceh,Kab. Bener Meriah,,,,,,,
+2019,Aceh,Kota Banda Aceh,182.57,0.55,8.85,44.31,2.27,0.00,0.05
+2019,Aceh,Kota Sabang,1.06,0.02,0.03,0.03,0.36,0.03,0.32
+2019,Aceh,Kota Langsa,11.40,1.00,16.00,12.00,6.00,2.00,
+2019,Sumatera Utara,Kab. Langkat,8.00,5.40,5.40,6.00,3.90,1.90,2.80
+2019,Sumatera Utara,Kab. Deli Serdang,,,,,,,
+2019,Sumatera Utara,Kab. Asahan,364.90,2.68,3.53,77.36,13.14,6.96,151.91
+2019,Sumatera Utara,Kab. Dairi,2.26,0.12,2.64,0.00,0.55,0.36,0.00
+2019,Sumatera Utara,Kab. Humbang Hasundutan,10.00,0.50,1.00,,1.45,,2.50
+2019,Sumatera Utara,Kab. Samosir,10.00,1.00,2.00,3.00,1.00,5.00,2.00
+2019,Sumatera Utara,Kota Medan,,,,,,,
+2019,Sumatera Utara,Kota Pematang Siantar,,,,,,,
+2019,Sumatera Utara,Kota Tebing Tinggi,,,,,,,
+2019,Sumatera Barat,Kab. Pesisir Selatan,82.50,14.00,24.70,1.00,13.00,3.00,
+2019,Sumatera Barat,Kab. Sijunjung,13.60,8.40,9.60,1.20,1.00,0.60,
+2019,Sumatera Barat,Kab. Tanah Datar,88.30,0.28,17.75,1.54,12.27,,
+2019,Sumatera Barat,Kab. Agam,,,,,,,
+2019,Sumatera Barat,Kab. Pasaman,51.01,4.49,12.81,3.78,0.88,,13.60
+2019,Sumatera Barat,Kab. Dharmasraya,82.13,2.29,0.62,,0.09,,11.20
+2019,Sumatera Barat,Kota Padang,450.00,14.94,90.00,21.24,47.07,8.00,9.00
+2019,Sumatera Barat,Kota Solok,29.26,1.27,15.78,0.44,1.28,0.06,1.62
+2019,Sumatera Barat,Kota Sawahlunto,,,,,,,
+2019,Sumatera Barat,Kota Padang Panjang,34.88,0.36,6.77,1.53,1.72,,0.96
+2019,Sumatera Barat,Kota Bukittinggi,,,,,,,
+2019,Sumatera Barat,Kota Payakumbuh,65.09,0.72,17.18,10.38,3.16,0.32,0.53
+2019,Riau,Kab. Kampar,,,,,,,
+2019,Riau,Kab. Pelalawan,,,,,,,
+2019,Riau,Kab. Rokan Hilir,195.00,3.55,89.00,101.60,4.80,20.00,82.50
+2019,Riau,Kab. Siak,17.40,4.50,7.00,2.00,4.30,2.80,1.00
+2019,Riau,Kota Pekanbaru,,,,,,,
+2019,Jambi,Kab. Merangin,20.00,5.00,11.00,5.00,4.27,3.00,2.00
+2019,Jambi,Kab. Sarolangun,,,,,,,
+2019,Jambi,Kab. Batanghari,74.85,1.20,29.00,3.00,2.50,2.00,8.30
+2019,Jambi,Kab. Muaro Jambi,,,,,,,
+2019,Jambi,Kab. Bungo,6.72,1.53,67.06,1.32,0.98,2.45,65.78
+2019,Jambi,Kota Jambi,,,,,,,
+2019,Jambi,Kota Sungai Penuh,,,,,,,
+2019,Sumatera Selatan,Kab. Ogan Komering Ulu,,,,,,,
+2019,Sumatera Selatan,Kab. Muara Enim,17.27,1.13,5.14,2.12,1.02,1.81,
+2019,Sumatera Selatan,Kab. Lahat,95.10,20.80,95.10,38.60,17.80,17.90,18.10
+2019,Sumatera Selatan,Kab. Musi Rawas,256.19,0.10,13.36,1.12,1.17,0.18,11.50
+2019,Sumatera Selatan,Kab. Musi Banyuasin,143.05,12.77,20.44,25.55,12.77,17.88,22.99
+2019,Sumatera Selatan,Kab. Empat Lawang,139.36,0.08,35.00,0.49,0.01,0.08,0.14
+2019,Sumatera Selatan,Kota Palembang,697.20,5.90,81.40,34.50,107.00,23.10,235.30
+2019,Sumatera Selatan,Kota Prabumulih,52.76,3.60,19.86,12.44,2.47,0.98,1.31
+2019,Bengkulu,Kab. Bengkulu Selatan,14.00,2.00,2.50,2.40,1.00,1.00,2.00
+2019,Bengkulu,Kab. Bengkulu Utara,44.10,9.00,19.00,7.00,6.00,2.00,13.00
+2019,Bengkulu,Kab. Lebong,,,,,,,
+2019,Bengkulu,Kab. Kepahiang,15.00,1.00,10.00,1.10,1.00,1.00,1.40
+2019,Bengkulu,Kab. Bengkulu Tengah,33.89,6.93,10.38,3.46,2.59,,
+2019,Lampung,Kab. Lampung Barat,6.30,1.80,3.20,1.82,1.30,,
+2019,Lampung,Kab. Way Kanan,313.59,0.65,5.40,0.42,0.04,0.00,141.35
+2019,Lampung,Kab. Pringsewu,6.00,0.60,4.00,1.50,1.00,0.50,1.00
+2019,Lampung,Kota Bandar Lampung,410.10,68.30,102.50,20.50,41.00,13.70,27.30
+2019,Lampung,Kota Metro,41.00,12.30,20.50,12.30,8.20,5.13,3.08
+2019,Kepulauan Bangka Belitung,Kab. Bangka,79.04,6.37,16.57,8.92,3.82,5.10,7.65
+2019,Kepulauan Bangka Belitung,Kab. Bangka Selatan,59.00,2.46,5.50,2.87,9.28,6.21,0.36
+2019,Kepulauan Bangka Belitung,Kab. Bangka Tengah,28.60,2.57,17.78,16.55,12.07,0.06,0.79
+2019,Kepulauan Bangka Belitung,Kota Pangkal Pinang,,,,,,,
+2019,Kepulauan Riau,Kab. Bintan,17.95,5.13,10.26,7.69,5.10,2.60,2.56
+2019,Kepulauan Riau,Kab. Karimun,70.10,5.30,17.50,5.30,28.10,20.10,29.00
+2019,Kepulauan Riau,Kab. Natuna,,,,,,,
+2019,Kepulauan Riau,Kab. Lingga,16.20,0.10,0.70,5.10,3.90,1.20,0.20
+2019,Kepulauan Riau,Kab. Kepulauan Anambas,,,,,,,
+2019,Kepulauan Riau,Kota Batam,762.79,154.82,2.27,55.69,4.13,325.82,27.00
+2019,Kepulauan Riau,Kota Tanjung Pinang,13.40,4.60,12.00,6.40,7.90,6.80,1.20
+2019,DKI Jakarta,Kab. Adm. Kep. Seribu,20.70,,,,,,11.60
+2019,DKI Jakarta,Kota Adm. Jakarta Utara,,,,,,,
+2019,DKI Jakarta,Kota Adm. Jakarta Selatan,,,,,,,
+2019,DKI Jakarta,Kota Adm. Jakarta Timur,,,,,,,
+2019,Jawa Barat,Kab. Sukabumi,162.70,149.56,152.84,478.25,146.42,305.69,98.61
+2019,Jawa Barat,Kab. Bandung,,,,,,,
+2019,Jawa Barat,Kab. Ciamis,277.99,22.69,93.61,96.44,28.37,25.53,22.69
+2019,Jawa Barat,Kab. Sumedang,235.00,5.00,100.00,20.00,20.00,25.00,33.00
+2019,Jawa Barat,Kab. Subang,,,,,,,
+2019,Jawa Barat,Kab. Bekasi,,,,,,,
+2019,Jawa Barat,Kab. Pangandaran,,,,,,,
+2019,Jawa Barat,Kota Bogor,262.50,0.30,23.40,1.50,4.40,2.80,212.10
+2019,Jawa Barat,Kota Sukabumi,153.31,3.01,5.62,2.95,12.48,0.59,
+2019,Jawa Barat,Kota Depok,156.20,7.40,104.20,29.80,409.20,22.30,14.90
+2019,Jawa Barat,Kota Cimahi,,,,,,,
+2019,Jawa Barat,Kota Tasikmalaya,,,,,,,
+2019,Jawa Tengah,Kab. Cilacap,724.60,0.48,44.61,0.17,8.89,6.10,
+2019,Jawa Tengah,Kab. Kebumen,37.00,8.00,5.00,3.00,9.00,3.00,4.00
+2019,Jawa Tengah,Kab. Purworejo,93.67,0.04,0.80,0.03,0.99,,
+2019,Jawa Tengah,Kab. Wonosobo,99999.99,0.60,26.00,6.80,12.30,,
+2019,Jawa Tengah,Kab. Boyolali,264.50,,,,,,
+2019,Jawa Tengah,Kab. Klaten,352.50,2.75,2.04,1.42,2.38,6.39,
+2019,Jawa Tengah,Kab. Sukoharjo,174.54,2.52,15.51,7.94,18.74,141.23,5.37
+2019,Jawa Tengah,Kab. Wonogiri,,,,,,,
+2019,Jawa Tengah,Kab. Sragen,124.80,43.60,121.30,23.50,28.30,57.69,3.24
+2019,Jawa Tengah,Kab. Grobogan,520.70,42.00,109.20,58.80,25.20,33.60,50.40
+2019,Jawa Tengah,Kab. Rembang,52.28,3.68,1661.23,0.02,152.00,,11.86
+2019,Jawa Tengah,Kab. Pati,,,,,,,
+2019,Jawa Tengah,Kab. Kudus,,,,,,,
+2019,Jawa Tengah,Kab. Jepara,50214.44,25107.22,75321.66,32639.39,37660.83,20085.78,10042.89
+2019,Jawa Tengah,Kab. Semarang,26.40,15.00,22.20,,,4.80,
+2019,Jawa Tengah,Kab. Kendal,0.00,0.04,0.47,0.00,0.03,0.27,0.29
+2019,Jawa Tengah,Kab. Batang,,,,,,,
+2019,Jawa Tengah,Kab. Pemalang,172.00,21.00,60.00,48.00,26.00,58.00,5.84
+2019,Jawa Tengah,Kab. Brebes,1.00,1.00,10.00,1.00,1.00,1.00,1.00
+2019,Jawa Tengah,Kota Magelang,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2019,Jawa Tengah,Kota Semarang,361.96,7.50,321.78,15.60,66.03,84.28,332.84
+2019,D.I. Yogyakarta,Kab. Kulon Progo,0.43,0.00,0.23,0.00,,,
+2019,D.I. Yogyakarta,Kab. Bantul,253.80,2.90,26.00,117.70,29.40,1.90,10.30
+2019,D.I. Yogyakarta,Kab. Gunungkidul,,,,,,,
+2019,D.I. Yogyakarta,Kab. Sleman,,,,,,,
+2019,D.I. Yogyakarta,Kota Yogyakarta,199.70,2.35,34.75,80.08,41.79,1.18,2.11
+2019,Jawa Timur,Kab. Pacitan,9.50,,15.00,1.10,1.00,1.10,0.60
+2019,Jawa Timur,Kab. Trenggalek,,,,,,,
+2019,Jawa Timur,Kab. Tulungagung,51.39,0.16,16.82,7.96,4.08,12.81,0.56
+2019,Jawa Timur,Kab. Blitar,,,,,,,
+2019,Jawa Timur,Kab. Kediri,,,,,,,
+2019,Jawa Timur,Kab. Malang,886.37,19.06,118.55,25.70,29.47,19.94,8.86
+2019,Jawa Timur,Kab. Lumajang,175.12,0.53,129.60,4.75,142.66,17.45,30.24
+2019,Jawa Timur,Kab. Banyuwangi,19511.24,0.02,5.55,0.01,0.01,,
+2019,Jawa Timur,Kab. Bondowoso,19.44,3.25,14.61,0.61,4.22,1.36,
+2019,Jawa Timur,Kab. Situbondo,23.55,1.02,2.52,15.02,16.20,42.88,16.99
+2019,Jawa Timur,Kab. Probolinggo,15.50,0.90,12.50,4.70,3.00,4.30,2.20
+2019,Jawa Timur,Kab. Pasuruan,,,,,,,
+2019,Jawa Timur,Kab. Sidoarjo,99999.99,4467.30,62542.70,31271.40,8934.70,44673.40,99999.99
+2019,Jawa Timur,Kab. Nganjuk,,,,,,,
+2019,Jawa Timur,Kab. Madiun,,,,,,,
+2019,Jawa Timur,Kab. Ngawi,44.57,3.55,7.50,5.10,6.10,5.32,5.50
+2019,Jawa Timur,Kab. Bojonegoro,,,2.47,0.01,0.45,,
+2019,Jawa Timur,Kab. Tuban,150.84,8.70,84.00,76.78,66.47,68.30,3.00
+2019,Jawa Timur,Kab. Gresik,,,,,,,
+2019,Jawa Timur,Kab. Sampang,99999.99,10172.80,30518.30,20345.50,6103.70,,14241.90
+2019,Jawa Timur,Kab. Pamekasan,,,,,,,
+2019,Jawa Timur,Kab. Sumenep,360.20,0.61,5.40,1.15,39.01,19.08,24.84
+2019,Jawa Timur,Kota Kediri,40635.23,16254.09,39280.73,8127.05,9481.55,14899.59,6772.54
+2019,Jawa Timur,Kota Blitar,63.80,0.70,2.10,1.40,1.10,0.40,1.40
+2019,Jawa Timur,Kota Malang,,,,,0.70,,
+2019,Jawa Timur,Kota Probolinggo,41.50,0.60,11.50,2.90,1.30,1.50,0.60
+2019,Jawa Timur,Kota Pasuruan,76.10,0.70,19.70,1.30,16.40,6.60,10.50
+2019,Jawa Timur,Kota Mojokerto,77.50,4.50,7.50,3.90,2.10,4.50,
+2019,Jawa Timur,Kota Madiun,85.84,5.16,9.41,4.78,4.61,3.17,2.03
+2019,Jawa Timur,Kota Surabaya,,,,,,,
+2019,Jawa Timur,Kota Batu,77.29,3.33,2.00,3.69,1.54,17.80,18.60
+2019,Banten,Kab. Pandeglang,,,,,,,
+2019,Banten,Kab. Lebak,1.32,117.79,7.89,49.46,131.97,129.13,68.12
+2019,Banten,Kab. Tangerang,1900.00,6.70,220.00,40.57,25.00,325.00,
+2019,Banten,Kota Tangerang,962.05,56.68,46.20,213.20,305.53,,
+2019,Banten,Kota Cilegon,,,,,,,
+2019,Banten,Kota Tangerang Selatan,904.90,8.60,0.10,32.40,26.70,,
+2019,Bali,Kab. Jembrana,56.38,2.80,12.40,15.40,7.32,3.10,2.60
+2019,Bali,Kab. Badung,,24.28,25.40,558.60,,,
+2019,Bali,Kab. Gianyar,390.90,4.52,15.84,,7.03,48.00,2.03
+2019,Bali,Kab. Bangli,93.21,0.27,5.94,0.63,3.67,,0.54
+2019,Bali,Kab. Karangasem,,,,,,,
+2019,Bali,Kab. Buleleng,527.27,1.55,6.78,1.36,1.16,0.58,0.39
+2019,Bali,Kota Denpasar,,,,,,,
+2019,Nusa Tenggara Barat,Kab. Lombok Timur,25.00,0.15,15.00,3.00,31.42,0.47,20.00
+2019,Nusa Tenggara Barat,Kab. Lombok Utara,,,,,,,
+2019,Kalimantan Barat,Kab. Sambas,233.10,0.90,37.60,,,,
+2019,Kalimantan Barat,Kab. Mempawah,3.83,8.08,26.73,8.38,8.52,11.11,2.57
+2019,Kalimantan Barat,Kab. Sanggau,226.66,0.26,0.16,8.03,,,
+2019,Kalimantan Barat,Kab. Ketapang,41.00,6.00,20.00,15.00,5.00,8.00,5.00
+2019,Kalimantan Barat,Kab. Bengkayang,,,,,,,
+2019,Kalimantan Barat,Kota Pontianak,99276.90,444.50,26767.40,11126.46,1083.48,,208.36
+2019,Kalimantan Tengah,Kab. Kotawaringin Barat,10.82,6.82,10.52,7.30,6.28,4.93,4.29
+2019,Kalimantan Tengah,Kab. Kotawaringin Timur,,,,,,,
+2019,Kalimantan Tengah,Kab. Kapuas,11.45,0.84,4.96,,0.99,,1.75
+2019,Kalimantan Tengah,Kab. Barito Utara,32.50,5.20,24.00,2.00,1.50,2.00,1.50
+2019,Kalimantan Tengah,Kab. Sukamara,,,,,,,
+2019,Kalimantan Tengah,Kab. Pulang Pisau,38.10,0.10,2.30,6.50,3.90,0.00,
+2019,Kalimantan Tengah,Kab. Murung Raya,4.00,0.60,3.00,1.00,2.00,1.00,2.00
+2019,Kalimantan Tengah,Kab. Barito Timur,5.60,,4.10,,1.20,0.40,0.50
+2019,Kalimantan Tengah,Kota Palangkaraya,149.45,88.40,40.00,20.84,1.00,,45.39
+2019,Kalimantan Selatan,Kab. Tanah Laut,30.00,1.00,3.00,1.00,1.00,1.00,3.00
+2019,Kalimantan Selatan,Kab. Kotabaru,,,5.60,,,,
+2019,Kalimantan Selatan,Kab. Barito Kuala,37.08,9.27,18.54,10.00,8.00,4.00,5.00
+2019,Kalimantan Selatan,Kab. Tapin,59.30,1.89,5.92,2.14,2.65,2.05,1.35
+2019,Kalimantan Selatan,Kab. Hulu Sungai Selatan,42.31,0.79,34.08,5.69,4.71,3.60,1.88
+2019,Kalimantan Selatan,Kab. Hulu Sungai Tengah,11.52,1.53,6.83,2.04,2.35,7.65,0.53
+2019,Kalimantan Selatan,Kab. Hulu Sungai Utara,2.90,0.30,22.60,1.00,5.45,0.01,2.53
+2019,Kalimantan Selatan,Kab. Tanah Bumbu,120.00,4.00,50.00,,2.00,2.00,2.00
+2019,Kalimantan Selatan,Kab. Balangan,24.73,5.05,9.26,6.15,2.53,3.78,1.24
+2019,Kalimantan Selatan,Kota Banjarmasin,,,,,,,
+2019,Kalimantan Selatan,Kota Banjarbaru,157.63,0.54,1.50,0.01,4.83,0.50,0.50
+2019,Kalimantan Timur,Kab. Paser,89.69,2.24,10.09,5.61,2.24,2.24,
+2019,Kalimantan Timur,Kab. Kutai Kartanegara,,,,,,,
+2019,Kalimantan Timur,Kab. Berau,50.70,1.60,8.66,3.90,2.30,6.00,40.00
+2019,Kalimantan Timur,Kab. Kutai Timur,,,,,,,
+2019,Kalimantan Timur,Kab. Penajam Paser Utara,10.00,2.10,3.10,3.00,2.00,1.00,1.00
+2019,Kalimantan Timur,Kota Balikpapan,332.09,8.90,29.26,41.46,21.60,6.19,19.12
+2019,Kalimantan Timur,Kota Samarinda,,,,,,,
+2019,Kalimantan Timur,Kota Bontang,79.69,3.67,5.86,,3.58,8.46,0.45
+2019,Kalimantan Utara,Kab. Nunukan,,,,,,,
+2019,Kalimantan Utara,Kota Tarakan,1.75,0.08,4.50,3.69,1.49,0.06,2.00
+2019,Sulawesi Utara,Kab. Minahasa,,,,,,,
+2019,Sulawesi Utara,Kab. Kepulauan Sangihe,,,,,,,
+2019,Sulawesi Utara,Kab. Kepulauan Talaud,8.15,2.09,7.37,3.48,2.79,0.60,0.43
+2019,Sulawesi Utara,Kab. Minahasa Selatan,,,,,,,
+2019,Sulawesi Utara,Kab. Minahasa Utara,,,,,,,
+2019,Sulawesi Utara,Kab. Minahasa Tenggara,,,,,,,
+2019,Sulawesi Utara,Kab. Bolaang Mongondow Utara,30.00,10.00,10.00,20.00,10.00,10.00,10.00
+2019,Sulawesi Utara,Kab. Kep. Siau Tagulandang Biaro,,,,,,,
+2019,Sulawesi Utara,Kab. Bolaang Mongondow Selatan,,,,,,,
+2019,Sulawesi Utara,Kota Bitung,,,,,,,
+2019,Sulawesi Utara,Kota Tomohon,,,,,,,
+2019,Sulawesi Utara,Kota Kotamobagu,35.20,3.00,10.90,7.20,3.10,,2.40
+2019,Sulawesi Tengah,Kab. Banggai,,,,,,,
+2019,Sulawesi Tengah,Kab. Poso,14.10,1.25,3.10,0.71,0.92,0.62,0.30
+2019,Sulawesi Tengah,Kab. Donggala,3.00,0.50,2.00,1.50,1.60,1.00,1.00
+2019,Sulawesi Tengah,Kab. Parigi Moutong,,,,,,,
+2019,Sulawesi Selatan,Kab. Kepulauan Selayar,32.00,6.00,18.00,6.00,3.00,1.80,
+2019,Sulawesi Selatan,Kab. Bulukumba,,,,,,,
+2019,Sulawesi Selatan,Kab. Bantaeng,22.90,0.90,1.70,1.70,0.10,,2.00
+2019,Sulawesi Selatan,Kab. Sinjai,95.73,0.90,1.00,1.50,3.94,3.00,0.30
+2019,Sulawesi Selatan,Kab. Bone,186.50,33.30,72.30,28.50,22.20,15.90,11.10
+2019,Sulawesi Selatan,Kab. Maros,6.50,1.17,0.65,0.58,1.38,,2.27
+2019,Sulawesi Selatan,Kab. Pangkajene Kepulauan,,,,,,,
+2019,Sulawesi Selatan,Kab. Barru,43.77,7.29,4.38,2.19,4.38,7.29,3.65
+2019,Sulawesi Selatan,Kab. Wajo,26.92,0.75,7.67,1.59,0.30,0.28,18.21
+2019,Sulawesi Selatan,Kab. Sidenreng Rappang,87.90,4.20,6.80,3.30,8.40,2.10,8.20
+2019,Sulawesi Selatan,Kab. Enrekang,90.00,1.00,13.00,2.00,2.40,1.00,10.00
+2019,Sulawesi Selatan,Kab. Luwu Utara,,,,,,,
+2019,Sulawesi Selatan,Kab. Luwu Timur,44.80,11.20,22.40,11.20,5.60,5.60,16.80
+2019,Sulawesi Selatan,Kota Parepare,31.80,5.70,16.20,8.80,2.80,6.40,1.60
+2019,Sulawesi Selatan,Kota Palopo,4.00,0.04,7.00,6.00,0.04,8.00,
+2019,Sulawesi Tenggara,Kab. Kolaka,65.00,2.00,13.00,5.00,10.00,1.00,4.00
+2019,Sulawesi Tenggara,Kab. Konawe,,,,,,,
+2019,Sulawesi Tenggara,Kab. Buton,,,,,,,
+2019,Sulawesi Tenggara,Kab. Bombana,,0.10,4.00,,2.00,1.00,1.00
+2019,Gorontalo,Kab. Gorontalo,4.60,0.40,0.20,0.40,0.80,0.70,0.50
+2019,Gorontalo,Kab. Pohuwato,5.80,1.20,3.20,1.30,1.10,0.70,0.50
+2019,Gorontalo,Kota Gorontalo,30.00,17.00,10.00,10.00,5.00,2.00,0.00
+2019,Sulawesi Barat,Kab. Pasangkayu,,,,,,,
+2019,Sulawesi Barat,Kab. Polewali Mandar,109.74,5.31,12.39,8.85,19.47,14.16,7.08
+2019,Maluku,Kab. Maluku Tenggara,75.00,5.00,15.00,1.00,1.00,2.00,1.00
+2019,Maluku,Kab. Buru Selatan,3.47,0.41,2.50,9.87,1.19,,1.04
+2019,Maluku,Kota Ambon,56.16,10.80,43.20,30.24,25.92,7.05,8.64
+2019,Maluku Utara,Kab. Halmahera Utara,,,,,,,
+2019,Maluku Utara,Kota Ternate,37.70,4.70,10.10,7.70,4.40,3.50,4.20
+2019,Maluku Utara,Kota Tidore Kepulauan,36.32,6.36,18.16,13.62,9.08,5.45,1.82
+2019,Papua,Kab. Biak Numfor,29.00,3.64,9.75,3.08,3.57,6.62,
+2019,Papua,Kota Jayapura,162.10,50.33,24.10,9.10,5.00,2.00,
+2019,Papua Selatan,Kab. Asmat,22.00,2.00,4.00,5.00,3.00,2.00,1.00
+2018,Papua Barat,Kab. Manokwari,121.90,,19.80,4.40,4.12,,
